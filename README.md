@@ -5,10 +5,10 @@
 ## Установка
 
 1. Клонировать репозиторий:
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/exem1337/radiator-predict-ai
 
 ## Перейти в папку проекта:
-cd your_project
+cd radiator-predict-ai
 
 ## Создать виртуальное окружение:
 python -m venv venv
